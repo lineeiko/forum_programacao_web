@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<signos>
+    <signo>
+        <dtaInicio>03-21</dtaInicio>
+        <dtaFinal>04-19</dtaFinal>
+        <descSigno>Áries </descSigno>
+        <característica>
+            A pessoa de áries é aventureira, prestativa, assertiva, persistente, confiante, ousada e bastante intensa.
+        </característica>
+    </signo>
+
+    <signo>
+        <dtaInicio>04-20</dtaInicio>
+        <dtaFinal>05-20</dtaFinal>
+        <descSigno>Touro </descSigno>
+        <característica>
+            A pessoa de touro é cuidadosa, paciente, confiante, confiável, determinada, prática, fiel e decidida.
+        </característica>
+    </signo>
+
+    <signo>
+        <dtaInicio>05-21</dtaInicio>
+        <dtaFinal>06-21</dtaFinal>
+        <descSigno>Gêmeos </descSigno>
+        <característica>
+            A pessoa de gêmeos é extrovertida, animada, comunicativa, curioso e espertos.
+        </característica>
+    </signo>
+
+    <signo>
+        <dtaInicio>06-22</dtaInicio>
+        <dtaFinal>07-22</dtaFinal>
+        <descSigno>Câncer </descSigno>
+        <característica>
+           A pessoa de câncer é protetora, dedicada, gentil, carinhosa, romântica, sensível e simpática.
+        </característica>
+    </signo>
+
+    <signo>
+        <dtaInicio>07-23</dtaInicio>
+        <dtaFinal>08-22</dtaFinal>
+        <descSigno>Leão </descSigno>
+        <característica>
+            A pessoa de leão é inteligente, líder nato, expressiva, determinada, afetiva, entusiasta, romântica, calorosa, criativa, leal, generosa e extrovertida.
+        </característica>
+    </signo>
+
+    <signo>
+        <dtaInicio>08-23</dtaInicio>
+        <dtaFinal>09-22</dtaFinal>
+        <descSigno>Virgem </descSigno>
+        <característica>
+            A pessoa de virgem é organizada, analítica, observadora, eficiente, atenciosa, sincera, inteligente e perfeccionista.
+        </característica>
+    </signo>
+    
+    <signo>
+        <dtaInicio>09-23</dtaInicio>
+        <dtaFinal>10-22</dtaFinal>
+        <descSigno>Libra </descSigno>
+        <característica>
+            A pessoa de libra é equilibrada, justa, sinceros, simpática, comunicativa e tranquila.
+        </característica>
+    </signo>
+
+    <signo>
+        <dtaInicio>10-23</dtaInicio>
+        <dtaFinal>11-21</dtaFinal>
+        <descSigno>Escorpião </descSigno>
+        <característica>
+            A pessoa de escorpião é  auto-confiante, intuitiva, dedicada, apaixonada, sensível e emotiva.
+        </característica>
+    </signo>
+
+    <signo>
+        <dtaInicio>11-22</dtaInicio>
+        <dtaFinal>12-21</dtaFinal>
+        <descSigno>Sagitário </descSigno>
+        <característica>
+            A pessoa de sagitário é talentosa, inteligente, justa, espontânea, otimista, amigável, aventureira e alegre.
+        </característica>
+    </signo>
+
+    <signo>
+        <dtaInicio>12-22</dtaInicio>
+        <dtaFinal>12-31</dtaFinal>
+        <descSigno>Capricórnio </descSigno>
+        <característica>
+            A pessoa de capricórnio é persistente, determinada, organizada, ambiciosa, eficiente, trabalhadora, confiável, forte, reservada, cautelosa e paciente.
+        </característica>
+    </signo>
+
+   <signo>
+        <dtaInicio>01-01</dtaInicio>
+        <dtaFinal>01-19</dtaFinal>
+        <descSigno>Capricórnio </descSigno>
+        <característica>
+            A pessoa de capricórnio é persistente, determinada, organizada, ambiciosa, eficiente, trabalhadora, confiável, forte, reservada, cautelosa e paciente.
+        </característica>
+    </signo>
+
+    <signo>
+        <dtaInicio>01-20</dtaInicio>
+        <dtaFinal>02-18</dtaFinal>
+        <descSigno>Aquário </descSigno>
+        <característica>
+            A pessoa de aquário é idealista, tranquila, justa, divertida, leal, inventiva, independente e determinada.
+        </característica>
+    </signo>
+
+    <signo>
+        <dtaInicio>02-19</dtaInicio>
+        <dtaFinal>03-20</dtaFinal>
+        <descSigno>Peixes </descSigno>
+        <característica>
+            A pessoa de peixes é confiável, intuitiva, prestativa, adaptáveis, simpática, sociáveis, gentil, amável, sonhadora e caridosa. 
+        </característica>
+    </signo>
+    
+</signos>
