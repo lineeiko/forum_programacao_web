@@ -4,7 +4,7 @@
 
 - Contendo um formulário com campos para inserir nome e data de nascimento para descobrir o signo, que redireciona para uma página que contém informações sobre o signo.
 
-[🔗 Clique aqui para acessar](lineeiko.000webhostapp.com)
+[🔗 Clique aqui para acessar](https://lineeiko.000webhostapp.com/)
 
 ## 🛠 Tecnologias
 
